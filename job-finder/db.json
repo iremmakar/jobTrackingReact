@@ -1,0 +1,49 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "01/11/2023"
+    },
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "01/11/2023"
+    },
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": "01/11/2023"
+    },
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "01/11/2023"
+    },
+    {
+      "position": "xx",
+      "company": "y",
+      "location": "z",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "b7390473-2cee-425a-be58-6d120449413b",
+      "date": "08.08.2023"
+    }
+  ]
+}
